@@ -1,0 +1,75 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Glow With Care</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #fff7f0;
+      margin: 0;
+      padding: 0;
+      color: #333;
+    }
+    header {
+      background-color: #f4a7b9;
+      padding: 20px;
+      text-align: center;
+      color: white;
+    }
+    nav {
+      display: flex;
+      justify-content: center;
+      background-color: #ffd3d3;
+      padding: 10px;
+    }
+    nav a {
+      margin: 0 15px;
+      color: #333;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    .container {
+      padding: 20px;
+    }
+    article {
+      background: #fff;
+      padding: 20px;
+      margin-bottom: 20px;
+      border-radius: 8px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    }
+    footer {
+      text-align: center;
+      padding: 20px;
+      background-color: #f4a7b9;
+      color: white;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Glow With Care</h1>
+    <p>Your daily dose of skincare tips and routines</p>
+  </header>
+  <nav>
+    <a href="#">Home</a>
+    <a href="#">Tips</a>
+    <a href="#">Reviews</a>
+    <a href="#">About</a>
+  </nav>
+  <div class="container">
+    <article>
+      <h2>5 Morning Skincare Tips for a Radiant Glow</h2>
+      <p>Start your day with a refreshing cleanse, followed by a hydrating serum, and don’t forget sunscreen! Here's a quick rundown of a simple but effective morning routine.</p>
+    </article>
+    <article>
+      <h2>Best Moisturizers for Dry Skin in 2025</h2>
+      <p>We’ve reviewed the top 5 moisturizers for dry skin this year. Find out which ones made the list and why!</p>
+    </article>
+  </div>
+  <footer>
+    <p>© 2025 Glow With Care | All rights reserved.</p>
+  </footer>
+</body>
+</html>
